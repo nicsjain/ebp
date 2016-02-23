@@ -1,0 +1,2 @@
+
+window.ebp = window.ebp || {};

@@ -1,0 +1,28 @@
+
+ebp.products = [
+	{ name:'Product 1', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': 'filterType4option2', 'filterType5': 'filterType5option2', 'filterType6': '' },
+	{ name:'Product 2', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': 'filterType6option2' },
+	{ name:'Product 3', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': 'filterType6option3' },
+	{ name:'Product 4', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': 'filterType4option2', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 5', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 6', value: 'product1', 'index': undefined, 'filterType1': 'filterType1option1', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 7', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': 'filterType4option2', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 8', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 9', value: 'product1', 'index': undefined, 'filterType1': 'filterType1option2', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 10', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': 'filterType2option2', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 11', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 12', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 13', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 14', value: 'product1', 'index': undefined, 'filterType1': 'filterType1option2', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 15', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': 'filterType2option2', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 16', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 17', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 18', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 19', value: 'product1', 'index': undefined, 'filterType1': 'filterType1option2', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 20', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': 'filterType2option2', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 21', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 22', value: 'product1', 'index': undefined, 'filterType1': 'filterType1option2', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 23', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 24', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': 'filterType2option2', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' },
+	{ name:'Product 25', value: 'product1', 'index': undefined, 'filterType1': '', 'filterType2': '', 'filterType3': '', 'filterType4': '', 'filterType5': '', 'filterType6': '' }
+];
