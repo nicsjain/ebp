@@ -1,0 +1,99 @@
+#ebp-container {
+	box-sizing: border-box;
+	width: 100%;
+}
+#ebp-filter-container {
+	box-sizing: border-box;
+	float: left;
+	width: 20%;
+	background-color: #F4F4F4;
+}
+#ebp-results-container {
+	box-sizing: border-box;
+	float: left;
+	width: 80%;
+}
+#ebp-filter-container .filter-type {
+	box-sizing: border-box;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative;
+	border-bottom: 1px solid darkgray;
+}
+#ebp-filter-container .filter-type-header {
+	box-sizing: border-box;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#ebp-filter-container .clear-filter {
+	position: absolute;
+    right: 5px;
+    top: 5px;
+    color: #BDB76B;
+    cursor: pointer;
+}
+#ebp-filter-container .filter-option-label {
+	display: block;
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	color: #484848;
+}
+#ebp-filter-container .clear-filter:hover {
+	color: #54020E;
+}
+#ebp-filter-container .clear-filter:active {
+	color: #BDB76B;
+}
+#ebp-filter-container .filter-option-label, #ebp-filter-container .filter-option-label input {
+	cursor: pointer;
+}
+#ebp-filter-container .filter-option-label:hover {
+	background-color: #CCC9C9;
+	border-radius: 3px;
+}
+#ebp-proceed-checkout {
+
+	background-color: #CFEBFF;
+	position: fixed;
+	right: 0px;
+	top: 40px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-left: 1px solid gray;
+	padding: 2px;
+	cursor: pointer;
+}
+#ebp-results-container .product-result {
+	padding: 10px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+    width: 130px;
+	height: 220px;
+    margin-bottom: 10PX;
+}
+#ebp-results-container .product-image {
+	width: 130px;
+	margin: auto;
+	height: 130px;
+	background-color: #FDEFFF;
+}
+#ebp-results-container .product-head {
+	text-align: center;
+	height: 55px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#ebp-results-container .product-add-to-cart {
+	height: 25px;
+	background: #CFEBFF url("../images/cart-icon.png") center center content-box no-repeat;
+}
+#ebp-results-container .product-add-to-cart:hover {
+	border-color: red;
+}
+#ebp-results-container .product-add-to-cart:active {
+	background-color: darkgray;
+}

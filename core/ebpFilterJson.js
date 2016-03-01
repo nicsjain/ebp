@@ -65,5 +65,17 @@ ebp.filters = {
 							'filterType6option4': 'Filter Type 6 Option 4',
 							'filterType6option5': 'Filter Type 6 Option 5'
 						}
+					},
+	'filterType7' : {
+						'name': 'Filter Type 7', 
+						'selections':[], 
+						'options':{
+							'filterType6option1': 'Filter Type 6 Option 1',
+							'filterType6option2': 'Filter Type 6 Option 2',
+							'filterType6option3': 'Filter Type 6 Option 3',
+							'filterType6option4': 'Filter Type 6 Option 4',
+							'filterType6option5': 'Filter Type 6 Option 5'
+						}
 					}
+					
 };
