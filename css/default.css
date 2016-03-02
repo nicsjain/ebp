@@ -1,16 +1,31 @@
 body {
 	margin: 0px;
 }
-
 .w-header {
 	height: 10%;
 	background-color: #E8E8E8;
 }
-
-.w-interact-pane {
-	
+.interact-pane {
+	height: 90%;
 }
-
+.interact-navigation {
+	display: inline-block;
+	height: 100%;
+	width: 25%;
+	background-color: maroon;
+}
+.interact-carousel {
+	display: inline-block;
+	height: 100%;
+	width: 75%;
+	background-color: gray;
+}
+.product-slide-pane {
+	height: 200px;
+	background-color: #E8E8E8;
+	border-bottom: 1px solid red;
+}
 .w-footer {
-	
+	height: 300px;
+	background-color: gray;
 }
