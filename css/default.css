@@ -1,6 +1,9 @@
 body {
 	margin: 0px;
 }
+.clear-both {
+	clear: both;
+}
 .w-header {
 	height: 10%;
 	background-color: #E8E8E8;
@@ -10,12 +13,14 @@ body {
 }
 .interact-navigation {
 	display: inline-block;
+	vertical-align: top;
 	height: 100%;
 	width: 25%;
 	background-color: maroon;
 }
 .interact-carousel {
 	display: inline-block;
+	vertical-align: top;
 	height: 100%;
 	width: 75%;
 	background-color: gray;
@@ -24,6 +29,10 @@ body {
 	height: 200px;
 	background-color: #E8E8E8;
 	border-bottom: 1px solid red;
+}
+.view-all {
+	float: right;
+	padding-right:5px;
 }
 .w-footer {
 	height: 300px;

@@ -1,3 +1,10 @@
+body {
+	margin: 0px;
+}
+.w-header {
+	height: 10%;
+	background-color: #E8E8E8;
+}
 #ebp-container {
 	box-sizing: border-box;
 	width: 100%;
