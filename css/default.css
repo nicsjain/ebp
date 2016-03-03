@@ -8,20 +8,20 @@ body {
 	height: 10%;
 	background-color: #E8E8E8;
 }
+
+
+
+
 .interact-pane {
-	height: 90%;
+	min-height: 90%;
 }
-.interact-navigation {
-	display: inline-block;
-	vertical-align: top;
-	height: 100%;
-	width: 25%;
-	background-color: maroon;
-}
+
+
+
 .interact-carousel {
 	display: inline-block;
 	vertical-align: top;
-	height: 100%;
+	
 	width: 75%;
 	background-color: gray;
 }

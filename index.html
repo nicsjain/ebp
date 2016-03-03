@@ -3,6 +3,12 @@
 <title>ebp</title>
 <link rel="stylesheet" type="text/css" href="css/default.css">
 
+<link rel="stylesheet" type="text/css" href="interactive-navigation/styling.css">
+
+<script src="libraries/jquery-1.11.3.min.js"></script>
+<script src="interactive-navigation/navigationJson.js"></script>
+<script src="interactive-navigation/functionality.js"></script>
+
 <style>
 .go-class {
 	position: absolute;
@@ -26,17 +32,7 @@
 	
 	<!-- Interactive Navigation Panel -->
 	<div class="interact-navigation">
-		<ul>
-		<li>P1</li>
-		<li>P2</li>
-		<li>P3</li>
-		<li>P4</li>
-		<li>P5</li>
-		<li>P6</li>
-		<li>P7</li>
-		<li>P8</li>
-		<li>P9</li>
-		</ul>
+		
 	</div><!-- Interactive Carousel Panel
 	--><div class="interact-carousel">
 	
@@ -60,6 +56,10 @@
 </div>
 
 <a class="go-class" href="ebp.html"> Go </a>
+
+<script>
+interactiveNavigation($('.interact-navigation'));
+</script>
 
 </body>
 </html>

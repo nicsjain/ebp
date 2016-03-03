@@ -1,0 +1,30 @@
+.interact-navigation {
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	width: 25%;
+	background-color: maroon;
+}
+.interact-navigation-link {
+	height: 50px;
+}
+.interact-navigation-link:hover{
+	background-color: gray;
+}
+.interact-navigation-link:hover .interact-navigation-detail{
+	display: block;
+}
+.interact-navigation-detail {
+	position: absolute;
+	height: 100%;
+	width: 300%;
+	left: 100%;
+	top: 0px;
+	background-color: gray;
+	display: none;
+}
+.interact-navigation-page {
+    display: inline-block;
+    vertical-align: top;
+    width: 33.3%;
+}
