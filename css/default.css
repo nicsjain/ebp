@@ -5,15 +5,15 @@ body {
 	clear: both;
 }
 .w-header {
-	height: 10%;
-	background-color: #E8E8E8;
+	height: 70px;
+    background-color: #E8E8E8;
 }
 
 
 
 
 .interact-pane {
-	min-height: 90%;
+	
 }
 
 

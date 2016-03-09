@@ -1,0 +1,20 @@
+.product-display {
+	text-align: center;
+}
+.product-images{
+	background-color: #c3c2c3;
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.product-glance-details{
+	background-color: maroon;
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.product-details {
+	background-color: lightblue;
+}

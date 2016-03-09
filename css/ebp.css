@@ -44,7 +44,11 @@ body {
 	padding-top: 3px;
 	padding-right: 5px;
 	padding-bottom: 3px;
+	padding-left: 17px;
 	color: #484848;
+}
+#ebp-filter-container input {
+    margin-left: -15px;
 }
 #ebp-filter-container .clear-filter:hover {
 	color: #54020E;
