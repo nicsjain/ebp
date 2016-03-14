@@ -38,7 +38,7 @@ ebp.initiateEBP = function(){
 	var renderProduct = function(productIndex){
 		return '<div class="product-result" data-product-index="'+productIndex+'">' +
 					'<div class="product-image"><center>Image</center></div>' +
-					'<div class="product-head">'+ebp.products[productIndex].name+'</div>' +
+					'<div class="product-head"><a href="products.html?asd=sls">'+ebp.products[productIndex].name+'</a></div>' +
 					'<div class="product-add-to-cart"></div>' +
 				'</div>';
 	};
@@ -139,6 +139,7 @@ ebp.initiateEBP = function(){
 	// Event Binding
 	$('#ebp-filter-container').on('change', 'input', filterValueChanged);
 	$('#ebp-filter-container').on('click', '.clear-filter', clearFilterValue);
+	$('#ebp-results-container').on('click', '.product-head a', viewCart);
 	$('#ebp-results-container').on('click', '.product-add-to-cart', addToCart);
 	$('#ebp-proceed-checkout').on('click', viewCart);
 };
